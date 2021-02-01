@@ -1,7 +1,5 @@
 Here is my Snake game project.
 
-WORK IN PROGRESS...
-
 I hope you will engoy it
 
 # TECHNOLOGIES
